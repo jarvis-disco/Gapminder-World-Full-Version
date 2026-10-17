@@ -239,4 +239,4 @@ This repository serves as the official landing page for Gapminder World. The sof
 **Get the most recent version of Gapminder World today!**
 
 ---
-**Last updated:** 2026-10-17 09:59:14 UTC
+**Last updated:** 2026-10-17 13:32:09 UTC
